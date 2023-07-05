@@ -46,14 +46,18 @@ function Projects() {
           <h3 className="title">Xclusive - Outfit Generator</h3>
           <h5>Technology used: Google GCP, Python, JavaScript, Bootstrap, HTML, CSS, Git, SQL</h5>
           <ul>
-            <li></li>
+            <li>Acquired knowledge and proficiency in Python, JavaScript, HTML, and CSS during the development process.</li>
+            <li>Designed and implemented an intuitive user interface using HTML and CSS.</li>
+            <li>Collaborated with team members, sharing knowledge and resolving coding challenges together.</li>
           </ul>
         </div>
         <div className="item">
           <h3 className="title">Black Jack Simulation</h3>
           <h5>Technology used: C++</h5>
           <ul>
-            <li></li>
+            <li>Designed and implemented the game logic and rules using object-oriented programming principles.</li>
+            <li>Utilized control structures and conditional statements to handle player decisions, such as hitting or standing.</li>
+            <li>Designed and implemented the game logic and rules using object-oriented programming principles.</li>
           </ul>
         </div>
       </div>
